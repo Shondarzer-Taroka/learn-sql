@@ -9,5 +9,5 @@
 -- MODIFY price decimal(4,2) NOT NULL;
 INSERT INTO products
 -- value(5,"goi",null);
-value(5,"goi",0);
+value(5,"9oi",0);
 SELECT * FROM products
