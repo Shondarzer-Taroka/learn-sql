@@ -1,0 +1,15 @@
+-- CREATE TABLE USED(
+-- used_id INT PRIMARY KEY AUTO_INCREMENT,
+-- used_name VARCHAR(12)
+-- )
+
+-- ALTER TABLE USED 
+-- auto_increment= 1000;
+-- SET SQL_SAFE_UPDATES = 0;
+-- DELETE FROM USED;
+-- SET SQL_SAFE_UPDATES = 0;
+
+ INSERT INTO USED(used_name)
+ VALUES('PII')
+ ;
+SELECT * FROM USED
